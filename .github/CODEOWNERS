@@ -1,0 +1,12 @@
+# Agent knowledge files are owned by a team, never by a single person.
+# Replace @your-org/platform with your own team handle.
+
+/AGENTS.md                @your-org/platform
+**/AGENTS.md              @your-org/platform
+/CLAUDE.md                @your-org/platform
+/skills/                  @your-org/platform
+/docs/agent-memory/       @your-org/platform
+/docs/HANDOVER.md         @your-org/platform
+/.claude/                 @your-org/platform
+/.github/                 @your-org/platform
+/tools/                   @your-org/platform
